@@ -2,7 +2,7 @@
 
 Implementation of the SVD-based audio watermarking schemes.
 
-Final project in [Numerical Linear Algebra course](https://nla.skoltech.ru) at Skoltech.
+Final project in Numerical Linear Algebra [course](https://nla.skoltech.ru) at Skoltech. Done by I. Borovik, K. Pongsirijinda, and J. Atorigo.
 
 See [demo](demo.ipynb) for the demonstration and comparison of the following approaches:
 
@@ -13,7 +13,7 @@ See [demo](demo.ipynb) for the demonstration and comparison of the following app
 * 2-D Discrete Fourier Transform (DFT2) + SVD
 
 Watermarking schemes are compared based on:
-* the quality of the watermarked signals;
-* robustness to audio modification attacks (addition of Gaussian noise, audio cropping and scaling). 
+* the quality of the watermarked signals
+* robustness to audio modification attacks (addition of Gaussian noise, audio cropping and scaling)
 
 
